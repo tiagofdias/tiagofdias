@@ -1,6 +1,6 @@
 - 👋 Hi everyone, My name is Tiago Dias
 - 👀 I’m interested in ASP.NET, WPF and WINFORMS
-- 🌱 I’m currently learning C#, Visual Basic, JAVA, PYTHON, PHP and SQL.
+- 🌱 I’m currently learning C#, Visual Basic, JAVA, PYTHON, PHP and TSQL.
 - 📫 If you want to reach out to me, you can send an e-mail to tiagofdias@outlook.pt.
 
 <!---
