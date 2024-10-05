@@ -13,5 +13,3 @@
 
 <br>
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofdias&hide=issues,contribs,prs&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/tiagofdias/github-readme-stats)
-
