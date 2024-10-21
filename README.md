@@ -2,7 +2,9 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div style="display: inline_block"><br>
   
-  <i class="devicon-csharp-plain-wordmark colored"></i>
+
+  <i class="devicon-csharp-plain"></i>
+          
           
   <img align="center" alt="Tiago-Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Tiago-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
