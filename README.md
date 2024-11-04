@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 
@@ -39,7 +39,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofdias&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofdias&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 
 </p>
