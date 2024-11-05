@@ -9,7 +9,6 @@ I’ve gained valuable experience through various internships, where I honed my 
 I love working in fast-paced environments, whether solo or as part of a team. Building strong relationships with my colleagues and clients is important to me, and I’m always happy to share ideas and collaborate.
 
 <hr>
-
 <b> 🤖 Languages and Technologies </b>
  
 <br/>
@@ -96,7 +95,6 @@ I love working in fast-paced environments, whether solo or as part of a team. Bu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 />
 
-<br/>
 <br/>
 <br/>
 <br/>
