@@ -20,7 +20,6 @@ I love working in fast-paced environments, whether solo or as part of a team. Bu
 
 <b> 📊 Statistics </b>
 
-<button class="btn btn-active btn-accent">Accent</button>
 <p>
 
 <img 
