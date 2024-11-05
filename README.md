@@ -10,6 +10,7 @@ Texto
  🤖 Languages and Technologies
  
 <br/>
+<br/>
 
 <img 
     align="left" 
