@@ -3,11 +3,11 @@
 
 <h2> 👩🏻‍💻 <b> Tiago Dias </b> </h2>
 
-Hey there! I’m a 25-year-old Master's student in Computer Science living in Póvoa de Santa Iria, Lisbon, Portugal. I hold a Bachelor's degree in the same field and have picked up a bunch of skills along the way, including C#, SQL, OutSystems, HTML, CSS, and JavaScript. I also became a certified Microsoft Office Specialist Master back in 2016, which has helped me navigate Office tools like a pro.
+👋 Hi! I’m Tiago, a junior software developer with a Bachelor’s in Computer Science. I have hands-on experience in C#, SQL, JavaScript, and OutSystems, and I’m passionate about tackling real-world problems through code.
 
-I’ve gained valuable experience through various internships, where I honed my problem-solving skills and learned a lot about software development. I’m always on the lookout for new challenges to grow my skills further.
+💼 I’ve also interned at Consulteware, OGMA, and the Parish Council of Póvoa de Santa Iria, working on diverse projects ranging from time management systems to local web development. I’m also a certified Microsoft Office Specialist and I’m always exploring new technologies to enhance my skills.
 
-I love working in fast-paced environments, whether solo or as part of a team. Building strong relationships with my colleagues and clients is important to me, and I’m always happy to share ideas and collaborate.
+🌍 Currently, I’m pursuing a master’s in Computer Science and I’m on the lookout for new challenges. Let’s connect and collaborate!
 
 <a href="https://tiagofdias.github.io/My-Personal-Website/"><kbd> <br> Personal Website <br> </kbd></a>
 <a href="https://raw.githubusercontent.com/tiagofdias/tiagofdias/main/CV Tiago.pdf" target="_blank"><kbd> <br> Download CV <br> </kbd></a>
