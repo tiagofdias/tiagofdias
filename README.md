@@ -92,7 +92,7 @@ Texto
 <br/>
 <br/>
 
-📊 Statistics
+<b> 📊 Statistics </b>
 
 <p>
 
