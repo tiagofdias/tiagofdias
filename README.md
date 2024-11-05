@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-👩🏻‍💻 <b> Tiago Dias </b>
+<h2> 👩🏻‍💻 <b> Tiago Dias </b> </h2>
 
 Texto
 
@@ -8,6 +8,8 @@ Texto
 
 <br/>
 <br/>
+<hr>
+
 <b> 🤖 Languages and Technologies </b>
  
 <br/>
@@ -88,7 +90,6 @@ Texto
 
 <br/>
 <br/>
-
 <br/>
 <br/>
 
