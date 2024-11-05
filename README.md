@@ -8,7 +8,7 @@ Texto
 
 <br/>
 <br/>
- ### 🤖 Languages and Technologies
+<b> 🤖 Languages and Technologies </b>
  
 <br/>
 <br/>
@@ -92,7 +92,7 @@ Texto
 <br/>
 <br/>
 
-### 📊 Statistics
+📊 Statistics
 
 <p>
 
