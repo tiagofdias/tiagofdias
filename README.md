@@ -2,7 +2,6 @@
 
 👩🏻‍💻 Tiago Dias 
 
-<br/>
 Texto
 
 <br>
