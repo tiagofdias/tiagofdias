@@ -13,7 +13,7 @@ I love working in fast-paced environments, whether solo or as part of a team. Bu
 
 <br/>
 <br/>
- <p align="left"><img src="https://skillicons.dev/icons?i=cs,js,html,css,react,tailwind,nodejs,postgres,mysql,bootstrap,dotnet"> </a> </p>
+ <p align="left"> <a href="https://github.com/tiagofdias?tab=repositories"> <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,tailwind,nodejs,postgres,mysql,bootstrap,dotnet"> </a> </p>
 <br/>
 <br/>
 
