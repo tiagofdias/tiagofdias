@@ -10,7 +10,7 @@ I’ve gained valuable experience through various internships, where I honed my 
 I love working in fast-paced environments, whether solo or as part of a team. Building strong relationships with my colleagues and clients is important to me, and I’m always happy to share ideas and collaborate.
 
 <a href="https://tiagofdias.github.io/My-Personal-Website/"><kbd> <br> Personal Website <br> </kbd></a>
-<a href=""><kbd> <br> Download CV <br> </kbd></a>
+<a href="https://raw.githubusercontent.com/tiagofdias/tiagofdias/main/CV Tiago.pdf" target="_blank"><kbd> <br> Download CV <br> </kbd></a>
 
 <hr>
 <b> 🤖 Languages and Technologies </b>
