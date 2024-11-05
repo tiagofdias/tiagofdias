@@ -8,7 +8,8 @@ Texto
 <br/>
 <br/>
  🤖 Languages and Technologies
-
+ 
+<br/>
 
 <img 
     align="left" 
