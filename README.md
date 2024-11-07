@@ -3,11 +3,11 @@
 
 <h2> 👩🏻‍💻 <b> Tiago Dias </b> </h2>
 
-👋 Hi! I’m Tiago, a junior software developer with a Bachelor’s in Computer Science. I have hands-on experience in C#, SQL, JavaScript, and OutSystems, and I’m passionate about tackling real-world problems through code.
+👋 Hi! I’m Tiago, a junior software developer with a Bachelor’s in Computer Science. I have hands-on experience developing software solutions and am passionate about tackling real-world problems through code.
 
-💼 I’ve also interned at Consulteware, OGMA, and the Parish Council of Póvoa de Santa Iria, working on diverse projects ranging from time management systems to local web development. I’m also a certified Microsoft Office Specialist and I’m always exploring new technologies to enhance my skills.
+💼 I’ve also interned at Consulteware, OGMA, and the Parish Council of Póvoa de Santa Iria, where I contributed to projects ranging from time management systems to local web development. Additionally, I’m a certified Microsoft Office Specialist and continuously explore new technologies to expand my skill set.
 
-🌍 Currently, I’m pursuing a master’s in Computer Science and I’m on the lookout for new challenges. Let’s connect and collaborate!
+🌍 Currently, I’m pursuing a master’s in Computer Science and am on the lookout for new challenges. Let’s connect and collaborate!
 
 <a href="https://tiagofdias.github.io/My-Personal-Website/"><kbd> <br> Personal Website <br> </kbd></a>
 <a href="https://raw.githubusercontent.com/tiagofdias/tiagofdias/main/CV Tiago.pdf" target="_blank"><kbd> <br> Download CV <br> </kbd></a>
