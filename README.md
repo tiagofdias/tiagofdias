@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
- <p align="left"> <a href="https://github.com/tiagofdias?tab=repositories"> <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,tailwind,nodejs,postgres,dotnet"> </a> </p>
+ <p align="left"> <a href="https://github.com/tiagofdias?tab=repositories"> <img src="https://skillicons.dev/icons?i=cs,js,html,css,dotnet,postman,react,nodejs,postgres"> </a> </p>
 <br/>
 <br/>
 
