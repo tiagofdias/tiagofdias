@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet" type="text/css" />
 
-<h2> 👩🏻‍💻 <b> Tiago Dias </b> </h2>
+<h2> 👩🏻‍💻  <b> Tiago Dias </b> </h2>
 
 👋 Hi! I’m Tiago, a junior software developer certified by Microsoft with a Bachelor’s degree in Computer Science.  
 🌍 Currently, I’m pursuing a master’s in Computer Science and looking out for new challenges. Let’s connect and collaborate!
