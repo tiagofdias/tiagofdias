@@ -7,7 +7,7 @@
 🌍 Currently, I’m pursuing a master’s in Computer Science and looking out for new challenges. Let’s connect and collaborate!
 
 <a href="https://tiago-dias.onrender.com"><kbd> <br> Personal Website <br> </kbd></a>
-<a href="[https://www.dropbox.com/scl/fi/k46kt9wzzvl49tsnj42ts/Tiago-Dias-Resume.pdf?rlkey=rb4now69zzt2sqj193r5gcaal&st=3dcpki3o&dl=0](https://drive.google.com/file/d/19f7jNcRDlmncVByqvvcUvuPmHXWGs-ES/view?usp=sharing)" target="_blank"><kbd> <br> Download CV <br> </kbd></a>
+<a href="https://drive.google.com/file/d/19f7jNcRDlmncVByqvvcUvuPmHXWGs-ES/view?usp=sharing" target="_blank"><kbd> <br> Download CV <br> </kbd></a>
 
 <hr>
 <b> 🤖 Languages and Technologies </b>
